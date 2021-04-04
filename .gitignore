@@ -1,0 +1,4 @@
+# Ignore csvs
+201908-citibike-tripdata.csv
+citibike_tripdata_modified.csv
+
