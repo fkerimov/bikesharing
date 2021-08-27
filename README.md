@@ -33,7 +33,7 @@ On the above dashboard, clients can see the most utilized bikes and the most pop
 ![bike_repair](images/bike_repair.png)
 The tree visualization allows the clients to visuzalize and identify bikes are that may be in need of repairs based on the number of trips taken on the bikes.
 
-### Please follow the link to explore the data yourself: [link to dashboard](https://public.tableau.com/shared/W7XZN3BYM?:display_count=y&:origin=viz_share_link "link to dashboard")
+### Please follow the link to explore the data yourself: [link to dashboard](https://public.tableau.com/shared/RP5S6QCYZ?:display_count=n&:origin=viz_share_link "link to dashboard")
 
 
 ## Summary: 
